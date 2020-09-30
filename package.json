@@ -16,12 +16,12 @@
   },
   "author": {
     "email": "dusanscensny@gmail.com",
-    "name": "Strapi team",
+    "name": "Strapi team"
   },
   "maintainers": [
     {
       "name": "Strapi team",
-      "email": "hi@strapi.io",
+      "email": "hi@strapi.io"
     }
   ],
   "repository": {
