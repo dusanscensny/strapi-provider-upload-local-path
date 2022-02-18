@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-local-path",
-  "version": "3.6.1-alpha.13",
+  "version": "3.6.9",
   "description": "Local provider for strapi upload path",
   "keywords": [
     "upload",
@@ -32,7 +32,7 @@
     "url": "https://github.com/dusanscensny/strapi-provider-upload-local-path/issues"
   },
   "engines": {
-    "node": ">=10.16.0",
+    "node": ">=14.16.0",
     "npm": ">=6.0.0"
   },
   "license": "SEE LICENSE IN LICENSE",
